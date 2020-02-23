@@ -1,6 +1,6 @@
 # Ini Merupakan Repository untuk Kemampuan dasar
 Selamat datang di repository kemampuan dasar
-
+https://github.com/khoriers/nyobalagi/issues/1#issue-569451072
 
 ## ini merupakan contoh *Markdown*  File
 Berisi dokumentasi Test Kemampuan dasar
